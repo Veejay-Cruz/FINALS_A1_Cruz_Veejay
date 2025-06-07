@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "backend.Controllers.RecipeController",
+    "Method": "GetAllRecipe",
+    "RelativePath": "api/Recipe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
