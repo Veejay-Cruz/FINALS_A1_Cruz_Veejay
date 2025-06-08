@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\models\\addrecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:models\\addrecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\models\\updaterecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:models\\updaterecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\data\\recipedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:data\\recipedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|e:\\document\\32a1\\finals_a1_cruz_veejay\\backend\\models\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8330F264-1FBD-4CDF-9B78-ADED1C0BDD9F}|backend.csproj|solutionrelative:models\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +58,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateRecipeDto.cs",
+              "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\UpdateRecipeDto.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateRecipeDto.cs",
+              "ToolTip": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\UpdateRecipeDto.cs",
+              "RelativeToolTip": "Models\\UpdateRecipeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:44:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddRecipeDto.cs",
+              "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\AddRecipeDto.cs",
+              "RelativeDocumentMoniker": "Models\\AddRecipeDto.cs",
+              "ToolTip": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\AddRecipeDto.cs",
+              "RelativeToolTip": "Models\\AddRecipeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:16:12.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\appsettings.json",
@@ -62,56 +92,47 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-07T14:50:27.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\Recipe.cs",
-              "RelativeDocumentMoniker": "Models\\Recipe.cs",
-              "ToolTip": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\Recipe.cs",
-              "RelativeToolTip": "Models\\Recipe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:03:48.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T13:28:30.473Z",
+              "WhenOpened": "2025-06-07T14:50:27.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\Entities\\Recipe.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Recipe.cs",
+              "ToolTip": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Models\\Entities\\Recipe.cs",
+              "RelativeToolTip": "Models\\Entities\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:03:48.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RecipeDbContext.cs",
               "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Data\\RecipeDbContext.cs",
               "RelativeDocumentMoniker": "Data\\RecipeDbContext.cs",
               "ToolTip": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Data\\RecipeDbContext.cs",
               "RelativeToolTip": "Data\\RecipeDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T13:26:56.935Z"
+              "WhenOpened": "2025-06-07T13:26:56.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RecipeController.cs",
               "DocumentMoniker": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
               "ToolTip": "E:\\document\\32A1\\FINALS_A1_Cruz_Veejay\\backend\\Controllers\\RecipeController.cs",
               "RelativeToolTip": "Controllers\\RecipeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAASwBMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowE8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T13:13:54.342Z"
+              "WhenOpened": "2025-06-07T13:13:54.342Z",
+              "EditorCaption": ""
             }
           ]
         }
